@@ -18,7 +18,7 @@
 
 
 	<form method= "POST" action="" enctype="multipart/form-data">
-		<input type="file" name="image" accept="">
+		<input type="file" name="image" accept="image/*">
 		<input type="submit" name="submit" value="upload">
 	</form>
 	
